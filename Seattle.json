@@ -12,4 +12,5 @@
      "geometry": {       
        "type": "Point",    
                   "coordinates":  [ -122.3307,47.6226]     }, 
-     "properties": {     "capacity":47.7712     }   }] }
+     "properties": {     "capacity":47.7712     }   }] 
+}
